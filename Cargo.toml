@@ -2,6 +2,11 @@
 edition = "2021"
 name = "sanity_rs_client"
 version = "0.1.0"
+authors = ["manishsingh10895 <manishsingh10895@gmail.com>"]
+description = "Simple rust client for sanity.io"
+readme = "README.md"
+repository = "https://github.com/manishsingh10895/sanity_rs_client"
+rust-version = "1.60.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
